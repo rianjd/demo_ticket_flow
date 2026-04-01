@@ -1,6 +1,6 @@
 # Relay - AI Support Triage Engine
 
-> **Status:** Functional (demo-ready)
+> **Status:**  Live Demo pending
 > **Focus:** AI decision systems, retrieval, async processing
 
 ---
@@ -260,8 +260,8 @@ This helped catch:
 ## Running locally
 
 ```bash
-git clone https://github.com/rianjd/relay.git
-cd relay
+git clone https://github.com/rianjd/-----
+cd -----
 
 cp .env.example .env
 
@@ -282,7 +282,7 @@ docker compose up --build
 ## Contact
 
 * GitHub: https://github.com/rianjd
-* LinkedIn: https://linkedin.com/in/rianjd
+* LinkedIn: https://linkedin.com/in/rian-junckes-dilli-68201a239/
 
 ---
 
