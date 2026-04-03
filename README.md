@@ -1,7 +1,8 @@
 # Relay - AI Support Triage Engine
 
-> **Status:**  Live Demo pending
-> **Focus:** AI decision systems, retrieval, async processing
+**Live Demo:**  Pending
+**Video Demo:** https://youtu.be/dWKuSng6J1g
+**Focus:** AI decision systems, retrieval, async processing
 
 ---
 
